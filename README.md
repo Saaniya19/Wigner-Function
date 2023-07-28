@@ -1,5 +1,7 @@
 # Wigner-Function
-The first interactive, 3D model of a quantum probability function, called the Wigner Function, graphed on a torus shape. 
+The first interactive, 3D model of a quantum probability function, called the Wigner Function, graphed on a toroidal lattice. 
+
+This program was coded by Saaniya Saraf and the project was lead by UWaterloo Professor Robert Mann and graduate student Jack Davis.
 
 This is a function/map of the probability of existance of a particle at a certain position and with a certain spin.
 
